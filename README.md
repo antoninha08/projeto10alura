@@ -25,3 +25,7 @@ Refatoração de um site implementando recursos de acessibilidade no html, css e
 
 - Links de pular para o conteúdo (skip links)
 
+# Tecnologias utilizadas
+
+- HTML
+
