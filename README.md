@@ -5,7 +5,7 @@ Refatoração de um site implementando recursos de acessibilidade no html, css e
 
 # Recursos de acessibilidade
 
-# Atributos ARIA (como aria-label, aria-hidden, aria-expanded)
+- Atributos ARIA (como aria-label, aria-hidden, aria-expanded)
 
 - Texto alternativo (alt) em imagens
 
