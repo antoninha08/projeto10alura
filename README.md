@@ -9,19 +9,19 @@ Refatoração de um site implementando recursos de acessibilidade no html, css e
 
 - Texto alternativo (alt) em imagens
 
-tabindex para navegação por teclado
+- Tabindex para navegação por teclado
 
-Menu de acessibilidade
+- Menu de acessibilidade
 
-Contraste de cores adequado
+- Contraste de cores adequado
 
-Legenda em vídeos
+- Legenda em vídeos
 
-Audiodescrição
+- Audiodescrição
 
-Teclas de atalho (accesskey)
+- Teclas de atalho (accesskey)
 
-Formulários acessíveis com labels
+- Formulários acessíveis com labels
 
-Links de pular para o conteúdo (skip links)
+- Links de pular para o conteúdo (skip links)
 
